@@ -1,4 +1,4 @@
-# Hola, soy Luiz
+# Hola, soy Luiz Luzuriaga
 
 Estudio el Máster en Ciencias Actuariales y Financieras (Universidad de Alcalá) y convierto cada asignatura en guías de estudio, simulaciones y un atlas 3D. Todo en abierto y en español.
 
@@ -13,4 +13,3 @@ Estudio el Máster en Ciencias Actuariales y Financieras (Universidad de Alcalá
 | [Seguridad Social](https://luizluzuriaga.github.io/Gedankenpalast/Fundacion/guias/seguridad_social.html) | Guía de práctica: 64 preguntas de test, 19 casos, 7 ejercicios de cálculo y 8 de desarrollo |
 | [Portfolio actuarial](https://github.com/LuizLuzuriaga/Actuariales) | Portfolio como habitación interactiva con minijuegos |
 
-Material de Simulación: David Atance del Olmo, CC BY-NC-SA 4.0.
